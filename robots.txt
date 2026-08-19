@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thecliqlabs.github.io/readme-4zmahb/sitemap.xml
